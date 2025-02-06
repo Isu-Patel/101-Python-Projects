@@ -13,11 +13,14 @@ The projects in this repository span various domains, offering a diverse learnin
 * **Image Automation:**  Projects focused on automating image-related tasks, including image processing, manipulation, analysis, and potentially computer vision techniques.  These projects could cover tasks like resizing images, applying filters, object detection, or image recognition.
 
 * **(Add other categories as needed):**  The repository likely contains projects in other areas as well, such as:
-    * **Data Analysis and Visualization:**  Projects using libraries like Pandas, NumPy, and Matplotlib to analyze data and create visualizations.
-    * **Game Development:**  Simple games built using libraries like Pygame.
-    * **GUI Programming:**  Creating graphical user interfaces with Tkinter, PyQt, or other GUI frameworks.
-    * **Machine Learning:**  (If included) Introductory projects to machine learning concepts.
-    * **Web Development:**  (If included) Basic web applications using frameworks like Flask or Django.
+    * **Games:** Make games like Hangman Dice Rolling, Etc.
+    * **Web Scraping:** Scrapping Webs
+    * **Whatsapp Automation:** Creating a bot which talk with us.
+    * **Facebook Automation:** Creating a bot which talk with us.
+    * **Telegram Automation:** Creating a bot which talk with us.
+    * **Control PC Remotely:** Whatever we tell to PC it will do it.
+    * **Website Blocker:** We will Block a website.
+    * **Much More:** Much more these types of advance and intermediate projects.
 
 ## Project Structure
 
@@ -44,12 +47,4 @@ Contributions to the repository are welcome!  If you have a project idea or want
 
 ## License
 
-(Specify the license under which the projects are shared, e.g., MIT, GPL, Apache 2.0)
-
-## Getting Started
-
-1. Clone the repository: `git clone https://github.com/your-username/101-Python-Projects.git` (Replace with the actual repository URL)
-2. Explore the project directories: Navigate to the specific project you're interested in.
-3. Follow the instructions: Read the project description and follow the provided guidelines to set up and run the project.
-
-This repository provides a valuable collection of Python projects, offering a practical way to learn and apply your Python skills.  Whether you're a beginner or an experienced developer, you're sure to find projects that pique your interest and help you grow your Python expertise.
+MIT Licence Approved
