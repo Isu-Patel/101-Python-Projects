@@ -30,7 +30,7 @@ This library empowers you to perform a multitude of string operations, including
 * **Regular Expressions:** (If applicable, mention functions using regular expressions for pattern matching, searching, replacing, etc.)
 
 
-Key changes and additions:
+## Key changes and additions:
 
 * **Explicitly mentioned concatenation and repetition:** Explained how to achieve these using Python's built-in operators and provided example functions.
 * **Added example functions:**  Included `combine_strings`, `replace_substring`, `split_string`, and `join_strings` as examples, along with their usage.
