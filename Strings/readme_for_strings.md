@@ -29,16 +29,6 @@ This library empowers you to perform a multitude of string operations, including
 
 * **Regular Expressions:** (If applicable, mention functions using regular expressions for pattern matching, searching, replacing, etc.)
 
-
-## Key changes and additions:
-
-* **Explicitly mentioned concatenation and repetition:** Explained how to achieve these using Python's built-in operators and provided example functions.
-* **Added example functions:**  Included `combine_strings`, `replace_substring`, `split_string`, and `join_strings` as examples, along with their usage.
-* **Clearer explanation of what's possible:**  Expanded the "What it Does" section to be more comprehensive.
-* **More realistic usage examples:** Demonstrated the new functions in the code examples.
-
-This enhanced README provides a much better overview of the capabilities of your string manipulation library.  Remember to implement the example functions and add more as you develop your library.
-
 ## Functions (Examples)
 
 ```python
@@ -74,4 +64,14 @@ print(words) # Output: ['Hello', 'World!']
 word_list = ["This", "is", "a", "sentence."]
 joined_string = join_strings(word_list, separator=" ")
 print(joined_string) # Output: This is a sentence.
+```
+
+## Key changes and additions:
+
+* **Explicitly mentioned concatenation and repetition:** Explained how to achieve these using Python's built-in operators and provided example functions.
+* **Added example functions:**  Included `combine_strings`, `replace_substring`, `split_string`, and `join_strings` as examples, along with their usage.
+* **Clearer explanation of what's possible:**  Expanded the "What it Does" section to be more comprehensive.
+* **More realistic usage examples:** Demonstrated the new functions in the code examples.
+
+This enhanced README provides a much better overview of the capabilities of your string manipulation library.  Remember to implement the example functions and add more as you develop your library.
 
