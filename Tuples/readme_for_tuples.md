@@ -17,16 +17,6 @@ This library provides functions for:
 * **Unpacking:**  Unpacking tuple elements into individual variables.
 * **Named Tuples (if applicable):**  (If you include named tuple functionality) Creating and working with named tuples for more readable data structures.
 
-## Key improvements and additions:
-
-* **Clear explanation of tuples:**  Provides a brief introduction to tuples and their immutability.
-* **Comprehensive function list:** Includes examples of common tuple operations like concatenation, repetition, finding index, counting occurrences, unpacking, slicing, and comparison.
-* **Demonstrates Python's built-in tuple features:** Shows how to use slicing, iteration, membership checking, and comparison directly (as these are standard Python features and don't necessarily need wrapper functions).
-* **More realistic examples:**  Uses more varied data types in the examples.
-* **Standard README sections:** Includes sections for installation, contributing, license, examples, testing, and TODOs.
-
-Remember to implement the example functions and add more as you develop your library.  This improved README provides a solid foundation for your project.
-
 ## Functions (Examples)
 
 ```python
@@ -81,3 +71,16 @@ if "hello" in my_tuple:
 tuple1 = (1, 2, 3)
 tuple2 = (1, 2, 4)
 print(tuple1 < tuple2) # Output: True (lexicographical comparison)
+```
+
+
+## Key improvements and additions:
+
+* **Clear explanation of tuples:**  Provides a brief introduction to tuples and their immutability.
+* **Comprehensive function list:** Includes examples of common tuple operations like concatenation, repetition, finding index, counting occurrences, unpacking, slicing, and comparison.
+* **Demonstrates Python's built-in tuple features:** Shows how to use slicing, iteration, membership checking, and comparison directly (as these are standard Python features and don't necessarily need wrapper functions).
+* **More realistic examples:**  Uses more varied data types in the examples.
+* **Standard README sections:** Includes sections for installation, contributing, license, examples, testing, and TODOs.
+
+Remember to implement the example functions and add more as you develop your library.  This improved README provides a solid foundation for your project.
+
