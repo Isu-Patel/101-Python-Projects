@@ -12,7 +12,7 @@ The projects in this repository span various domains, offering a diverse learnin
 
 * **Image Automation:**  Projects focused on automating image-related tasks, including image processing, manipulation, analysis, and potentially computer vision techniques.  These projects could cover tasks like resizing images, applying filters, object detection, or image recognition.
 
-* **(Add other categories as needed):**  The repository likely contains projects in other areas as well, such as:
+* **Projects:**  The repository likely contains projects in other areas as well, such as:
     * **Games:** Make games like Hangman Dice Rolling, Etc.
     * **Web Scraping:** Scrapping Webs
     * **Whatsapp Automation:** Creating a bot which talk with us.
