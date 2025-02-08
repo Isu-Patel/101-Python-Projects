@@ -5,5 +5,5 @@ height = float(input("Enter the height of the parallelogram: "))
 # Executing Formula of finding area of parallelogram which is base X Height or b X h
 area = base * height
 
-# Telling what is the area of the base and height given by the user.
+# Displaying the results as per given base and height
 print(f"The area of the parallelogram is {area}")
