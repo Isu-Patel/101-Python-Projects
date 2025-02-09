@@ -31,3 +31,15 @@ elif choice == "4":
         print(f"The division of {n1} and {n2} is {result}")
 else:
     print("Invalid choice! Please choose a valid operation.")
+
+# ------------------------------- Output -------------------------------- #
+# Welcome to the Basic Calculator!
+# Choose an operation:
+#    1. Addition
+#    2. Subtraction
+#    3. Multiplication
+#    4. Division
+# Choose an Operation - (1/2/3/4): 3
+# Enter the first number: 5
+# Enter the second number: 10
+# The product of 5.0 and 10.0 is 50.0
