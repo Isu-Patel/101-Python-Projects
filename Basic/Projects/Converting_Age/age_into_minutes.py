@@ -1,3 +1,4 @@
+# Prompt the user to enter their age in years
 age_year = int(input("Enter your age in years: "))
 
 # Calculate the approximate number of minutes the user has lived
