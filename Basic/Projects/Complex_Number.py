@@ -8,7 +8,7 @@ complex_number = complex(real, imaginary)
 
 print(f"The complex number is: {complex_number}")
 
-# Output
+# ---------------------- Output ----------------------
 # Enter the real part of the complex number: 3
 # Enter the imaginary part of the complex number: 4
 # The complex number is: (3 + 4j)
