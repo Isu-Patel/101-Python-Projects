@@ -9,3 +9,8 @@ volume = (4/3) * math.pi * radius ** 3
 # Displaying the results as per given radius
 print(f"Surface Area of the Sphere is {surface_area:.2f}")
 print(f"Volume of the Sphere is {volume:.2f}")
+
+# ---------------------------- Output ---------------------------- #
+# Enter the radius of the sphere: 5
+# Surface Area of the Sphere is 314.16
+# Volume of the Sphere is 523.60
