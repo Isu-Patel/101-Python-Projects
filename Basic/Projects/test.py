@@ -13,3 +13,9 @@ print(f"Hello {name}! Welcome to Python!")
 color = input("What is your favorite color? ")
 print(f"Wow! {color} is a beautiful color!")
 
+# ---------------------------- Output ---------------------------- #
+# Hello World!
+# What is your name? John
+# Hello John! Welcome to Python!
+# What is your favorite color? Blue
+# Wow! Blue is a beautiful color!
