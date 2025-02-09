@@ -28,3 +28,22 @@ while True:
         print("Too low! Try again.")
     else:
         print("Too high! Try again.")
+
+
+# ------------------------------- Output -------------------------------- #
+# Welcome to the Number Guessing Game!
+# I'm thinking of a number between 1 and 100. Can you guess it?
+# Make a guess(Type 'Quit' to exit): 50
+# Too low! Try again.
+# Make a guess(Type 'Quit' to exit): 75
+# Too high! Try again.
+# Make a guess(Type 'Quit' to exit): 60
+# Too low! Try again.
+# Make a guess(Type 'Quit' to exit): 70
+# Too high! Try again.
+# Make a guess(Type 'Quit' to exit): 65
+# Too high! Try again.
+# Make a guess(Type 'Quit' to exit): 63
+# Too high! Try again.
+# Make a guess(Type 'Quit' to exit): 62
+# Congratulations! You've guessed the number in 6 attempts.
