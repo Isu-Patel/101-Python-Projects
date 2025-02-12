@@ -42,10 +42,3 @@ These projects cover fundamental Python concepts, including:
 * **Functions:**  Defining and calling functions to modularize code.
 * **Modules:**  Using built-in modules like `random` and `math`.
 * **Basic String Manipulation:**  Working with strings and performing simple manipulations.
-
-## How to Use This Repository
-
-1. Clone the repository:
-
-```bash
-git clone [https://github.com/your-username/basic-python-projects.git](https://www.google.com/search?q=https://www.google.com/search%3Fq%3Dhttps://github.com/your-username/basic-python-projects.git)  # Replace with your repository URL
