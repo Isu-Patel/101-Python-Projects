@@ -1,4 +1,4 @@
-# Intermediate Python Programming Techniques & Projects - Mastering Web Scraping
+# Intermediate Python Programming
 
 This repository dives into intermediate-level Python programming, focusing on practical application through projects, with a special emphasis on web scraping mastery.  It's designed for those who have a basic understanding of Python and want to expand their skills by building real-world applications.
 
