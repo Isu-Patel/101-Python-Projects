@@ -1,4 +1,4 @@
-# Error Handling in Python - A Comprehensive Guide
+# Error Handling in Python
 
 This repository explores error handling in Python using `try`, `except`, `else`, and `finally` blocks.  Effective error handling is crucial for writing robust and user-friendly programs.  This guide provides clear examples and explanations to help you understand how to gracefully handle potential errors in your Python code.
 
