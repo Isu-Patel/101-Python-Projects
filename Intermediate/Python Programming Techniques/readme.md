@@ -1,4 +1,4 @@
-# Python Programming Techniques - A Comprehensive Guide
+# Python Programming Techniques
 
 This repository explores fundamental and intermediate Python programming techniques, covering key concepts and practical applications.  It's designed to be a learning resource for those who want to solidify their Python skills and build real-world projects.
 
