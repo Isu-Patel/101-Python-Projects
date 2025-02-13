@@ -36,15 +36,40 @@ This project implements a simple bank account system using OOP principles. It de
 ### Example Usage
 
 ```python
-from bank_account import BankAccount  # Assuming the class is in bank_account.py
+# This class represents a bank account with basic operations like deposit, withdraw, and displaying balance.
 
-account = BankAccount("1234567890", "John Doe")
-print(account)  # Output: Account Number: 1234567890, Account Holder: John Doe, Balance: 0.0
+class BankAccount:
+    def __init__(self, account_number, balance):
+        """
+        Initialize the bank account with account number and balance.
+        """
+        self.account_number = account_number
+        self.balance = balance
 
-account.deposit(1000)
-print(account)  # Output: Account Number: 1234567890, Account Holder: John Doe, Balance: 1000.0
+    def deposit(self, amount):
+        """
+        Deposit a specified amount into the bank account.
+        """
+        self.balance += amount
 
-account.withdraw(500)
-print(account)  # Output: Account Number: 1234567890, Account Holder: John Doe, Balance: 500.0
+    def withdraw(self, amount):
+        """
+        Withdraw a specified amount from the bank account if sufficient funds are available.
+        """
+        if amount <= self.balance:
+            self.balance -= amount
+        else:
+            print("Insufficient funds.")
 
-account.withdraw(700)  # This will raise an InsufficientFundsError
+    def display_balance(self):
+        """
+        Display the current balance of the bank account.
+        """
+        print(f"Balance: {self.balance}")
+
+# Example usage of the BankAccount class
+my_account = BankAccount("123456789", 1000)
+my_account.deposit(500)      # Deposit 500 into the account
+my_account.withdraw(200)     # Withdraw 200 from the account
+my_account.display_balance() # Display the current balance
+
