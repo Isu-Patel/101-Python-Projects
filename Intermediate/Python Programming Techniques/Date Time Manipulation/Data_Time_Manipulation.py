@@ -22,3 +22,10 @@ print(f"Today's date is: {today}")  # prints today's date
 print(f"Specific date: {specific_date}")  # prints the specific date
 print(f"Formatted date: {formmated_date}")  # prints the formatted date and time
 print(f"Tomorrow's Date: {tomorrow}")  # prints tomorrow's date
+
+# ------------------------- Output ------------------------------- #
+# Current date and time: 2025-04-06 12:00:00
+# Today's date is: 2025-04-06
+# Specific date: 2023-05-17
+# Formatted date: 2025-04-05 12:00:00
+# Tomorrow's Date: 2025-04-07
