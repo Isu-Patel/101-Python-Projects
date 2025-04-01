@@ -1,7 +1,7 @@
 import os
+file_path = os.path.join('Advanced', 'Managing Files and Directories', 'Text Files', 'file.txt')
 
-current_dir = os.getcwd()
-print(f"Current Directory: {current_dir}")
-
-contents = os.listdir(current_dir)
-print("Contents of the current directory:", contents)
+if os.path.exists(file_path):
+    print(f"{file_path} exists.")
+else:
+    print(f"{file_path} does not exist.")
